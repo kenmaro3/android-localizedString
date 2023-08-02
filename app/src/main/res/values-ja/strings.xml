@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizedString</string>
+
+    <string name="greetingTitle">ハロー、ワールド</string>
+</resources>
